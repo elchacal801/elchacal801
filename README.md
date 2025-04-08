@@ -1,29 +1,52 @@
-# <a href="https://www.linkedin.com/in/dparra801/">Diego Parra</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 👾 Diego Parra — Cybersecurity | Threat Intel | Blockchain Risk | AI | Geopolitics
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Hey — I’m Diego. Security Analyst by trade, threat hunter by instinct, and researcher into the edges of what’s next.
 
+I lead incident response and cyber risk efforts at an enterprise level while pursuing deeper questions about how threats evolve — from ransomware gangs to token exploits, nation-state APTs to algorithmic manipulation. My work blends traditional security operations with forward-looking exploration into blockchain security, cryptocrime, AI, and geopolitical risk.
 
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/elchacal801/Vulnerability-Management-Program-Implementation/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+## 🛠 What I'm Focused On
 
-## 🚨 Threat Hunting and Security Operations
+- **Incident Response & Threat Intel** – coordinating cross-functional investigations across business, legal, and global teams
+- **Security Logging & SIEM Strategy** – building enterprise coverage across cloud, endpoints, and critical applications
+- **Blockchain & Crypto Risk** – researching exploit patterns, dark market behaviors, and DeFi attack surfaces
+- **AI for Security & Analysis** – building LLM pipelines to parse threat data, automate triage, and simulate adversary behavior
+- **Geopolitical Intelligence** – exploring how cybercrime, monetary policy, and digital sovereignty intersect
+- **SoloJackal** – a new venture at the crossroads of cyber threat intelligence and strategic risk
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/elchacal801/threat-hunting-scenario-tor)**
+---
 
-<hr/>
+## 🔍 Featured Projects
 
-## 🤳 Connect With Me
+### 🧪 [DarkWatch](https://github.com/solojackal)
+AI-native threat intel engine for crawling Tor, enriching data, and outputting actionable IOCs in STIX format.
 
-[<img align="left" alt="diego___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="diego___________ | Blog" width="22px" src="https://www.reshot.com/preview-assets/icons/LU7D8MFSTQ/globe-LU7D8MFSTQ.svg" />][blog]
+### 🛡 [Vulnerability Management Program](https://github.com/elchacal801/Vulnerability-Management-Program-Implementation)
+End-to-end lifecycle program design with risk-based remediation and asset context mapping.
 
+### 🕵️ [Threat Hunt: Tor in the Enterprise](https://github.com/elchacal801/threat-hunting-scenario-tor)
+Scenario-based hunt to detect unauthorized Tor browser use, blending EDR, DNS, and firewall telemetry.
 
-[linkedin]: https://linkedin.com/in/dparra801
-[blog]: https://an0nx71777.com/
+---
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## 📜 Certifications
+
+- GIAC GSEC • GIAC GFACT
+- ISC2 SSCP
+- CompTIA Security+, Network+, A+
+- Axelos ITIL v4
+
+---
+
+## 📬 Contact
+
+- 🌐 [SoloJackal.com](https://solojackal.com) — a startup-in-the-making  
+- 📓 [an0nx71777.com](https://an0nx71777.com) — thoughts, research, and explorations  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diego-parra)  
+- ✉️ [elchacal801@pm.me](mailto:elchacal801@pm.me)
+
+---
+
+> _“I study breaches the way historians study battles — because our past is our blueprint.”_  
+> — DP
