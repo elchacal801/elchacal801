@@ -1,8 +1,8 @@
 # 👾 Diego Parra — Cybersecurity | Threat Intel | Blockchain Risk | AI | Geopolitics
 
-Hey — I’m Diego. Security Analyst by trade, threat hunter by instinct, and researcher into the edges of what’s next.
+Security Analyst by trade, threat hunter by instinct, and researcher into the edges of what’s next.
 
-I lead incident response and cyber risk efforts at an enterprise level while pursuing deeper questions about how threats evolve — from ransomware gangs to token exploits, nation-state APTs to algorithmic manipulation. My work blends traditional security operations with forward-looking exploration into blockchain security, cryptocrime, AI, and geopolitical risk.
+I lead incident response and cyber risk efforts at an enterprise level while pursuing deeper questions about how threats evolve - from ransomware gangs to token exploits, nation-state APTs to algorithmic manipulation. My work blends traditional security operations with forward-looking exploration into blockchain security, cryptocrime, AI, and geopolitical risk.
 
 ---
 
