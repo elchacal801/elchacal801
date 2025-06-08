@@ -13,7 +13,7 @@ I lead incident response and cyber risk efforts at an enterprise level while pur
 - **Blockchain & Crypto Risk** – researching exploit patterns, dark market behaviors, and DeFi attack surfaces
 - **AI for Security & Analysis** – building LLM pipelines to parse threat data, automate triage, and simulate adversary behavior
 - **Geopolitical Intelligence** – exploring how cybercrime, monetary policy, and digital sovereignty intersect
-- **SoloJackal** – a new venture at the crossroads of cyber threat intelligence and strategic risk
+- **DarkAnalytica** – a new platform at the crossroads of cybercrime, threat intelligence, OSINT, geopolitics, and investigative journalism.
 
 ---
 
@@ -32,6 +32,7 @@ Scenario-based hunt to detect unauthorized Tor browser use, blending EDR, DNS, a
 
 ## 📜 Certifications
 
+- ZTCA
 - GIAC GSEC • GIAC GFACT
 - ISC2 SSCP
 - CompTIA Security+, Network+, A+
@@ -41,9 +42,9 @@ Scenario-based hunt to detect unauthorized Tor browser use, blending EDR, DNS, a
 
 ## 📬 Contact
 
-- 🌐 [SoloJackal.com](https://solojackal.com) — a startup-in-the-making  
+- 🌐 [DarkAnalytica.org](https://darkanalytica.org) 
 - 📓 [an0nx71777.com](https://an0nx71777.com) — thoughts, research, and explorations  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/diego-parra)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dparra801)  
 - ✉️ [elchacal801@pm.me](mailto:elchacal801@pm.me)
 
 ---
