@@ -1,4 +1,4 @@
-# 👾 Diego Parra — Cybersecurity | Threat Intel | Blockchain Risk | AI | Geopolitics
+# Diego Parra — Cybersecurity | Threat Intel | AI | Geopolitics
 
 Security Analyst by trade, threat hunter by instinct, and researcher into the edges of what’s next.
 
@@ -6,7 +6,7 @@ I lead incident response and participate in threat hunting & detection at an ent
 
 ---
 
-## 🛠 What I'm Focused On
+## What I'm Focused On
 
 - **Incident Response & CTI** – coordinating cross-functional investigations across business, legal, and global teams
 - **Security Logging & SIEM Strategy** – building enterprise coverage across cloud, endpoints, and critical applications
@@ -17,7 +17,7 @@ I lead incident response and participate in threat hunting & detection at an ent
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - MAD20 Threat Hunting & Detection Engineering
 - ZTCA
@@ -28,7 +28,7 @@ I lead incident response and participate in threat hunting & detection at an ent
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 🌐 [DarkAnalytica](https://darkanalytica.org) 
 - 📓 [an0nx71777](https://an0nx71777.com) — thoughts, research, and explorations  
