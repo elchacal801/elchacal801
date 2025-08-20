@@ -31,7 +31,6 @@ I lead incident response and participate in threat hunting & detection at an ent
 ## Contact
 
 - 🌐 [DarkAnalytica](https://darkanalytica.org) 
-- 📓 [an0nx71777](https://an0nx71777.com) — thoughts, research, and explorations  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dparra801)  
 - ✉️ [email](mailto:dpx.777@pm.me)
 
