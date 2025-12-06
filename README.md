@@ -18,8 +18,7 @@ Security Analyst specializing in incident response, threat hunting, and intellig
 
 ## Projects
 
-- **[Sentinel](https://github.com/elchacal801/sentinel)** - Intelligence-driven security operations platform applying IC methodology to cybersecurity
-- **DarkAnalytica** - Cyber threat intelligence and investigative research
+- TBA
 
 ## Certifications
 
@@ -27,9 +26,7 @@ MAD20 • ZTCA • GIAC GSEC • GIAC GFACT • ISC2 SSCP • CompTIA Security+,
 
 ## Contact
 
-- [DarkAnalytica](https://darkanalytica.org)
 - [LinkedIn](https://www.linkedin.com/in/dparra801)
-- dpx.777@pm.me
 
 ---
 
