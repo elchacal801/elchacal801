@@ -22,12 +22,10 @@ Security Analyst specializing in incident response, threat hunting, and intellig
 
 ## Certifications
 
-MAD20 • ZTCA • GIAC GSEC • GIAC GFACT • ISC2 SSCP • CompTIA Security+, Network+, A+ • ITIL v4
+CCFH • MAD20 • ZTCA • GSEC|GFACT • SSCP • Sec+|Net+|A+ • ITIL
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dparra801)
 
 ---
-
-_Classification: UNCLASSIFIED_
