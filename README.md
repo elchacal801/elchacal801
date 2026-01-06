@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3014&height=300&section=header&text=elchacal801&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyber%20Threat%20Intelligence%20|%20AI%20Security%20|%20Incident%20Response&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=180&section=header&text=elchacal801&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Cyber%20Threat%20Intelligence%20|%20AI%20Security%20|%20Incident%20Response&descAlignY=55&descAlign=55" width="100%" />
 </div>
 
 ### 🕵️‍♂️ Intelligence Brief
@@ -18,9 +18,9 @@ identity:
 
 | Operations | Analysis | Infrastructure |
 | :---: | :---: | :---: |
-| ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![MISP](https://img.shields.io/badge/MISP-555555?style=for-the-badge&logo=misp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![FALCON](https://img.shields.io/badge/FALCON-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![YARA](https://img.shields.io/badge/YARA-CC0000?style=for-the-badge&logo=y&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Splunk](https://img.shields.io/badge/Splunk-333333?style=for-the-badge&logo=splunk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white) |
+| ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-333333?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![MISP](https://img.shields.io/badge/MISP-333333?style=for-the-badge&logo=misp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white) |
+| ![FALCON](https://img.shields.io/badge/FALCON-333333?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![YARA](https://img.shields.io/badge/YARA-333333?style=for-the-badge&logo=y&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 <br/>
 
@@ -36,16 +36,16 @@ identity:
 
 ### 🎖️ Credentials
 
-![CCFH](https://img.shields.io/badge/CCFH-CERTIFIED-green?style=flat-square)
-![MAD20](https://img.shields.io/badge/MAD20-MITRE-blue?style=flat-square)
-![ZTCA](https://img.shields.io/badge/ZTCA-ZERO_TRUST-orange?style=flat-square)
-![GSEC](https://img.shields.io/badge/GSEC-GIAC-red?style=flat-square)
-![Sec+](https://img.shields.io/badge/CompTIA-Security+-003399?style=flat-square)
+![CCFH](https://img.shields.io/badge/CCFH-CERTIFIED-333333?style=flat-square)
+![MAD20](https://img.shields.io/badge/MAD20-MITRE-333333?style=flat-square)
+![ZTCA](https://img.shields.io/badge/ZTCA-ZERO_TRUST-333333?style=flat-square)
+![GSEC](https://img.shields.io/badge/GSEC-GIAC-333333?style=flat-square)
+![Sec+](https://img.shields.io/badge/CompTIA-Security+-333333?style=flat-square)
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dparra801">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
