@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3014&height=300&section=header&text=Diego%20Parra&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyber%20Threat%20Intelligence%20|%20AI%20Security%20|%20Incident%20Response&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3014&height=300&section=header&text=elchacal801&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyber%20Threat%20Intelligence%20|%20AI%20Security%20|%20Incident%20Response&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 ### 🕵️‍♂️ Intelligence Brief
 
 ```yaml
 identity:
-  name: Diego Parra
+  handle: elchacal801
   role: Security Analyst & CTI Researcher
   focus: [Threat Hunting, AI Security, Crypto-Crime]
   status: Hunting Emerging Threats
-  location: Cyberspace
 ```
 
 <br/>
@@ -20,8 +19,8 @@ identity:
 | Operations | Analysis | Infrastructure |
 | :---: | :---: | :---: |
 | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![MISP](https://img.shields.io/badge/MISP-555555?style=for-the-badge&logo=misp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=k&logoColor=white) | ![YARA](https://img.shields.io/badge/YARA-CC0000?style=for-the-badge&logo=y&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![MISP](https://img.shields.io/badge/MISP-555555?style=for-the-badge&logo=misp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![FALCON](https://img.shields.io/badge/FALCON-FC0000?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![YARA](https://img.shields.io/badge/YARA-CC0000?style=for-the-badge&logo=y&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 <br/>
 
