@@ -28,6 +28,7 @@ identity:
 
 | Operation | Intelligence | Stack |
 |:---|:---|:---:|
+| **[Atlas Gridwatch](https://github.com/elchacal801/atlas_gridwatch)** | Real-time tracking of sovereign AI infrastructure and hyperscaler expansion trends. | `Python` `Sovereign AI` `Research` |
 | **[Domain Intel](https://github.com/elchacal801/domain_intel)** | Automated infrastructure tracking & CTI generation. Tracks disposable email providers and high-abuse hosting families. | `Python` `STIX` `Actions` |
 | **[Chaintrace](https://github.com/elchacal801/chaintrace)** | Forensic blockchain analysis and crypto-crime attribution patterns. | `Blockchain` `Python` |
 | **[Greysignal](https://github.com/elchacal801/greysignal)** | Signal intelligence aggregation for detecting anomalous network behavior. | `ML` `Data Analysis` |
