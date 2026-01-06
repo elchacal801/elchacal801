@@ -30,8 +30,8 @@ identity:
 | Operation | Intelligence | Stack |
 |:---|:---|:---:|
 | **[Domain Intel](https://github.com/elchacal801/domain_intel)** | Automated infrastructure tracking & CTI generation. Tracks disposable email providers and high-abuse hosting families. | `Python` `STIX` `Actions` |
-| **Chaintrace** | Forensic blockchain analysis and crypto-crime attribution patterns. | `Blockchain` `Python` |
-| **Greysignal** | Signal intelligence aggregation for detecting anomalous network behavior. | `ML` `Data Analysis` |
+| **[Chaintrace](https://github.com/elchacal801/chaintrace)** | Forensic blockchain analysis and crypto-crime attribution patterns. | `Blockchain` `Python` |
+| **[Greysignal](https://github.com/elchacal801/greysignal)** | Signal intelligence aggregation for detecting anomalous network behavior. | `ML` `Data Analysis` |
 
 <br/>
 
