@@ -25,6 +25,21 @@ identity:
 
 <br/>
 
+### 🌐 Global Threat Radar
+
+![Global Intelligence Map](assets/map_global_threat.png)
+
+#### Operating Theaters (Detection Labs)
+
+| Region | Threat Group / Focus | Status | Repository |
+| :--- | :--- | :--- | :--- |
+| **MENA** | **MuddyWater (MOIS)** | 🟢 Active | [**detection_lab_MENA_01**](https://github.com/elchacal801/detection_lab_MENA_01) |
+| **Eastern Europe** | **Sandworm / APT28** | 🟡 Analysis | *Coming Soon* |
+| **EMEA** | **Ransomware Cartels** | ⚪ Targeting | *Coming Soon* |
+| **APAC** | **Volt Typhoon / APT41** | ⚪ Targeting | *Coming Soon* |
+
+<br/>
+
 ### 📡 Active Transmissions
 
 | Operation | Intelligence | Stack |
