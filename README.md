@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=180&section=header&text=elchacal801&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Cyber%20Threat%20Intelligence%20|%20AI%20Security%20|%20Incident%20Response&descAlignY=55&descAlign=55" width="100%" />
-</div>
+# elchacal801
+>
+> **Clearance Level**: TS // SI-TK
+> **Role**: Cyber Threat Intelligence | Defense Analysis
 
 ### 🕵️‍♂️ Intelligence Brief
 
